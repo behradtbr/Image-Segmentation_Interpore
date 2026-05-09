@@ -13,11 +13,10 @@ Feel free to use, modify, and build upon the provided pipelines in your research
 
 If you find this repository useful for your work, please consider citing the related paper and referencing this repository.
 
+Paper DOI: https://doi.org/10.69631/j6zv1891
+
 ## Citation
 ```bibtex
 @article{ImageSegmentationInterpore,
   doi = {10.69631/j6zv1891}
 }
-
-
-Paper DOI: https://doi.org/10.69631/j6zv1891
