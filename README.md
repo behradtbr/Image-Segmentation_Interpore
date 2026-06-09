@@ -81,7 +81,7 @@ Please refer to `requirements.txt` for the package versions used in the reposito
 
 ## Usage Notice
 
-This repository is provided for academic and research purposes. You are welcome to use, modify, and build upon the provided code for your own research work.
+This repository is provided for academic and research purposes ONLY. You are welcome to use, modify, and build upon the provided code for your own research work.
 
 If you use this repository, please cite the related paper and reference this GitHub repository.
 
