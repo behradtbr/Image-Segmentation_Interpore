@@ -1,4 +1,4 @@
-# Multiphase Image Segmentation of Naturally Fractured Media
+# Multiphase Image Segmentation of Naturally and induced Fractured Media
 
 This repository contains the research code related to the article:
 
@@ -108,3 +108,5 @@ DOI: https://doi.org/10.69631/j6zv1891
 For research collaboration or questions related to this work, please contact:
 
 [behrad.tabrizipour@srbiau.ac.ir](mailto:behrad.tabrizipour@srbiau.ac.ir)
+[behradtp@gmail.com](mailto:behradtp@gmail.com)
+
